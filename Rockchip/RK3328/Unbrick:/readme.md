@@ -7,8 +7,8 @@ https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards
 >
 >This is a list of posts where forum users have been able to spot the eMMC clock pin to trigger the maskrom mode:
 >
->[H96 Max+](https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/page/20/#comment-130684) (board signature: RK3318_V1.4) by @Gausus
->[X88 PRO 10](https://forum.armbian.com/topic/23640-restore-x88-pro-10/#comment-147352) (board signature: X88_PRO_B) by @mathgaming
+>[H96 Max+](https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/page/20/#comment-130684) (board signature: RK3318_V1.4) by @Gausus  
+>[X88 PRO 10](https://forum.armbian.com/topic/23640-restore-x88-pro-10/#comment-147352) (board signature: X88_PRO_B) by @mathgaming  
 >[Ninkbox N1 Max RK3318](https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/page/9/#comment-125359) by @enigmasphinx
 
 
