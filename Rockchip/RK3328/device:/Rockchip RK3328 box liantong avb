@@ -1,0 +1,8 @@
+Hardware: Rockchip RK3328 box liantong avb
+
+https://www.google.com/search?q=Rockchip+RK3328+box+liantong+avb
+
+# Source
+Device Tree: https://github.com/54shady/qop_kernel/blob/master/arch/arm64/boot/dts/rockchip/rk3328-box-liantong-avb.dts
+
+Kernel: , https://github.com/54shady/qop_kernel
