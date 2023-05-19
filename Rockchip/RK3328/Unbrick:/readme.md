@@ -1,6 +1,18 @@
 # Thread
+https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/
 
-# Case study:
+>Technically, rockchip devices cannot be bricked. If the internal flash does not contain a bootable system, they will always boot from the sdcard. If, for a reason, the bootable system on the internal flash is corrupted or is unable to boot correctly, you can always force the maskrom mode shorting the clock pin on the PCB. The procedure is explained [here](https://forum.armbian.com/topic/12656-csc-armbian-for-rk322x-tv-boxes/page/5/#comment-99167) for rk322x, but for rk3318/28 is the same.
+>
+>In most of the rk3318/28 boards, shorting the clock pin is difficult or impossible because eMMC are BGA chips with no exposed pins. Pay double attention when burning something on the internal flash memory and always test first the image booting from the sdcard to be sure it works before burning anything in internal flash.
+>
+>This is a list of posts where forum users have been able to spot the eMMC clock pin to trigger the maskrom mode:
+>
+>[H96 Max+](https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/page/20/#comment-130684) (board signature: RK3318_V1.4) by @Gausus
+>[X88 PRO 10](https://forum.armbian.com/topic/23640-restore-x88-pro-10/#comment-147352) (board signature: X88_PRO_B) by @mathgaming
+>[Ninkbox N1 Max RK3318](https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/page/9/#comment-125359) by @enigmasphinx
+
+
+# Case study: Ninkbox N1 Max RK3318 by @enigmasphinx
 https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/page/9/#comment-125359
 
 >**enigmasphinx** *Posted June 1, 2021*
