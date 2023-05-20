@@ -2,6 +2,8 @@ sch: https://www.google.com/search?q=multitool+paolo+sabatino
 
 source: https://github.com/paolosabatino/multitool
 
+disk image: https://users.armbian.com/jock/rk322x/multitool/
+
 wiki: 
 
 discussion.thread:
